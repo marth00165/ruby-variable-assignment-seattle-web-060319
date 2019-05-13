@@ -1,8 +1,4 @@
 # Code your solution in variable.rb
-def
-greeting = "Hello World"
-end
-
 
 describe "./variable.rb" do
 
